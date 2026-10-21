@@ -23,3 +23,4 @@ Cada actividad se registra como Issue y se visualiza con GitHub Projects. El cie
 
 ## Protecciñon de datos
 No se publica datos personales identificables ni información reservada.
+
